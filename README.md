@@ -1,4 +1,4 @@
-# biodao-navigator
+# biodao-trails
 🧬 BioDAOTrials
 BioDAOTrials is a pioneering decentralized platform designed to revolutionize how early-stage biotech research trials are proposed, managed, and rewarded. By leveraging blockchain transparency and community governance, it creates an open, trustless environment where researchers, participants, and administrators collaborate seamlessly to accelerate scientific discovery.
 
