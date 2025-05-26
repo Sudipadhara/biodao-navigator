@@ -1,46 +1,36 @@
 # biodao-navigator
 🧬 BioDAOTrials
-BioDAOTrials is a decentralized smart contract platform designed to streamline and incentivize participation in early-stage biotech research trials. By combining transparent governance with blockchain-based rewards, it empowers researchers, participants, and administrators to collaborate efficiently within a decentralized science (DeSci) ecosystem.
+BioDAOTrials is a pioneering decentralized platform designed to revolutionize how early-stage biotech research trials are proposed, managed, and rewarded. By leveraging blockchain transparency and community governance, it creates an open, trustless environment where researchers, participants, and administrators collaborate seamlessly to accelerate scientific discovery.
 
-🚀 Features
-Trial Proposal
-Researchers can propose new biotech trials by submitting details such as the trial title, description, participant rewards, and maximum number of participants.
+🚀 What Makes BioDAOTrials Unique?
+Decentralized Trial Innovation:
+Breaks traditional barriers by enabling researchers worldwide to propose and run biotech trials without intermediaries.
 
-Admin Approval
-A designated admin reviews and approves proposed trials, ensuring quality control before opening enrollment.
+Community-Powered Validation:
+Empowers admins and researchers to collaboratively approve and verify trial milestones, ensuring integrity and quality.
 
-Participant Enrollment
-Community members can enroll in approved trials, up to the participant limit, enabling broad involvement.
+Incentives That Drive Participation:
+Uses programmable ERC20 token rewards to motivate and fairly compensate participants for their contributions, fueling a vibrant research ecosystem.
 
-Completion Verification and Reward Distribution
-Upon trial completion, researchers or admins verify participants’ contributions and automatically distribute ERC20 token rewards.
+Immutable Transparency:
+Every action from trial proposal to participant completion is permanently recorded on-chain, building trust and accountability.
 
-Transparent and Traceable
-All key actions—trial proposals, approvals, enrollments, and completions—are recorded on-chain, providing an auditable and tamper-resistant history.
+Scalable & Flexible Framework:
+Designed to adapt across various biotech domains, from drug discovery to genetic research, BioDAOTrials provides a flexible blueprint for decentralized scientific collaboration.
 
-🔐 Roles
-Admin: Oversees trial approvals and verifies participant completions.
+🔐 Who’s Involved?
+Visionary Researchers proposing novel trials and pushing biotech frontiers.
 
-Researcher: Proposes trials and can confirm participant completion.
+Trusted Admins curating and approving high-impact research proposals.
 
-Participant: Joins trials and earns rewards upon successful completion.
+Engaged Participants enrolling in trials, contributing data or work, and earning rewards.
 
-🪙 Token Integration
-Rewards are paid out using an ERC20-compatible token, which must be specified at contract deployment. This setup allows flexible integration with existing or custom tokens.
-
-📦 How It Works
-Researchers submit detailed proposals for new trials.
-
-The admin reviews and approves proposals.
-
-Participants enroll in approved trials.
-
-Researchers or admin verify participant completion.
-
-Token rewards are automatically distributed to participants.
+🌟 Why BioDAOTrials?
+In an era where scientific progress depends on collaboration and transparency, BioDAOTrials unlocks new pathways by marrying decentralized governance with real-world biotech innovation—ensuring that breakthroughs are community-driven, verifiable, and incentivized.
 
 📜 License
-This project is licensed under the MIT License.
+Distributed under the MIT License, encouraging open collaboration and continual innovation.
 
-🤝 Contributing
-Contributions are welcome! Feel free to submit pull requests or open issues for suggestions and improvements.
+Contract Details:0xd048b26f3c174b626bf5cf478b5299ebe257c6358c09c3e8b33a2c32872e0a56
+![Screenshot 2025-05-26 142705](https://github.com/user-attachments/assets/3cf1049a-4067-46b3-9b66-c4d0bf136237)
+
